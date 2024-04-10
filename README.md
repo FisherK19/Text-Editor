@@ -48,7 +48,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Getting Started
 
-- Clone the repository to your local machine: git clone <repository-url>
+- Clone the repository to your local machine: git clone <https://github.com/FisherK19/Text-Editor>
 - Install dependencies: npm install
 - Start the backend server: npm start
 - Build the frontend assets: npm run build
@@ -75,9 +75,9 @@ Webpack for bundling frontend assets.
 ### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 Fork the repository.
-Create a new branch (git checkout -b feature/fooBar).
-Commit your changes (git commit -am 'Add some fooBar').
-Push to the branch (git push origin feature/fooBar).
+Create a new branch (git checkout -b feature).
+Commit your changes (git commit -am 'Add some).
+Push to the branch (git push origin feature).
 Create a new Pull Request.
 
 
