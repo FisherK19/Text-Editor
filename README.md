@@ -12,7 +12,6 @@ This project is a Progressive Web Application (PWA) text editor that allows user
 4. [Technologies Used](#technologies-used)
 5. [Contributing](#contributing)
 6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
 
 ## User story
 AS A developer
