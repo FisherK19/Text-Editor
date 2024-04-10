@@ -63,7 +63,7 @@ Click on the Install button to install the text editor as a standalone applicati
 
 ## Screenshot:
 
-![Text Editor](./images/Screenshot%20PWA.png)
+![Text Editor](./Images/Screenshot%20PWA.png)
 
 
 ## Technologies Used
