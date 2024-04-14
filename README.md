@@ -86,4 +86,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Deployed Link:
 https://text-editor-33ca.onrender.com
 
+[Text Editor Link](https://text-editor-33ca.onrender.com)
 
